@@ -1,0 +1,27 @@
+body {
+    color:#d13c3c;
+    font-family: Verdana, sans-serif, fantasy;
+    font-size: 14px;
+    background-image: url(background4.jpg);
+    background-size: cover;
+    width: 50%;
+    margin: auto;
+}
+img {
+    width: 50%;
+    border: 6px dotted #a165c6;
+    border-radius: 22%;
+    margin: auto;
+    display: block;
+}
+h1 {
+    border-bottom: 4px solid #a165c6;
+    text-align: center;
+    background-color: #a165c6;
+}
+.paragraph1 {
+    text-align: center;
+}
+#red {
+    text-align: center;
+}
